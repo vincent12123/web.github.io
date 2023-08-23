@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://vincent12123.github.io/web.github.io/sitemap.xml
